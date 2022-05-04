@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cortez Park Community & Senior Center"
-date: 2021-02-28
+date: 2021-02-20
 categories: ["Social Identity and Diversity", "Urban Planning and Policy"]
 author: "Alissa Pulmano"
 lat: 34.064
