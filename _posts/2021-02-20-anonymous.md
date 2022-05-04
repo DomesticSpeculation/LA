@@ -16,11 +16,6 @@ The Cortez Park Community & Senior Center provides sports and communal activitie
 Photograph showing the entrance of Cortez Park Community & Senior Center. Courtesy of Peter M on Google Maps.
    {:.caption} 
 
-![West Covina Senior Citizens Center](images/CortezParkCommunity_SeniorCenter_Pin5_Image2.jpg)
-   {:.image}
-Photograph showing the front of the West Covina Senior Citizens Center. Source: Google Maps Street View & 360°.
-   {:.caption}
-
 #### Works cited
 
 {:.bibliography}
