@@ -26,6 +26,7 @@ github_username:
 
 # --MAP SETTINGS--
 map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/cl2rynqwa000016p6s1b11xjx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
@@ -49,7 +50,7 @@ collections:
 permalink: /:categories/:title/
 
 # --MENU--
-menu-type: circle  # options: dropdown, circle
+menu-type: dropdown  # options: dropdown, circle
 
 # settings for circle menu
 menu-height: '200px'
