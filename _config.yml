@@ -5,7 +5,7 @@ title: "test"
 email: placeholder
 description: none
 baseurl: "/la" # the subpath of your site, e.g. /blog/
-url: "https://domesticspeculation.github.io/la/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/DomesticSpeculation/la
 
 # --COPYRIGHT-- (Date generated from last build)
