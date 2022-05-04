@@ -25,11 +25,13 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/ckj8vyqh46kr719pqmzn6gb9y/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/cl2rwpb8f000c14mxygwqqry2/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+<iframe width='100%' height='400px' 
+
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
-setView: '[34.021932, -118.284406], 8'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+setView: '[33.9505, -118.1196], 7.53'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title
