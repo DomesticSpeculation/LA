@@ -8,9 +8,6 @@ lat: 34.064
 lng: -117.891
 runningtitle: "Cortez Park Community & Senior Center"
 desc: "The Cortez Park Community & Senior Center offers various recreational programs and services to complement the needs and interests of West Covina residents."
-order: 1
-mapmarker: https://upload.wikimedia.org/wikipedia/commons/3/33/Selling_newspapers_in_Little_Tokyo%2C_Los_Angeles%2C_1941.jpg
-timelinedate: 2014/10/01
 ---
 The Cortez Park Community & Senior Center provides sports and communal activities for West Covina families and senior citizens (“Cortez Park Community & Senior Center”). Residential involvement conveys the city’s “suburban ethnic clusters of residential areas and multiethnic communities,” since various members of white and BIPOC communities visit and participate in events held at the recreation center (Carpio, 00:05:55-00:06:07). However, because West Covina has a significantly high concentration of Latinx and Hispanic residents, the park and recreational building have a majority of Latinx and Hispanic visitors (“About West Covina”). Therefore, Cortez Park Community & Senior Center demonstrates how West Covina operates as an ethnoburb. Moreover, it helps maintain the tight-knit relationships inherent within Latinx and/or Hispanic communities as the Cortez Park Community & Senior Center serves as a great place for Latinx and/or Hispanic residents to congregate and reconnect with each other.
 
